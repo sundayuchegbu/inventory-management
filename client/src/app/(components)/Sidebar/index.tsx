@@ -78,7 +78,7 @@ const Sidebar = () => {
       >
         <Image
           src={
-            "https://bluz-inventorymanagement.s3.eu-west-2.amazonaws.com/logo.png"
+            "https://bluz-inventorymanagement.s3.eu-west-2.amazonaws.com/logo+(1).png"
           }
           alt="chizzy-logo"
           width={27}
